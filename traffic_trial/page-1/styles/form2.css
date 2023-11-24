@@ -1,0 +1,760 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.form2-ivm {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.text-input {
+  width:100%;
+  height: 100%;
+  
+}
+.form2-ivm .auto-group-6v79-sHs {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  height: 18.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-6v79-sHs .image-12-Pn1 {
+  width: 192rem;
+  height: 15.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.form2-ivm .auto-group-6v79-sHs .item-999-112-911-Kff {
+  width: 9.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 180.4rem;
+  top: 14.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.form2-ivm .auto-group-6v79-sHs .item-999-112-911-Kff .item-999-112-911-Kff-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #cc1717;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.form2-ivm .auto-group-6v79-sHs .item-999-112-911-Kff .item-999-112-911-Kff-sub-1 {
+}
+.form2-ivm .auto-group-6v79-sHs .item-999-112-911-Kff .item-999-112-911-Kff-sub-2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.form2-ivm .auto-group-6v79-sHs .police-hot-lines-7zq {
+  width: 14.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 163.65rem;
+  top: 14.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.form2-ivm .auto-group-ultt-26D {
+  width: 100%;
+  height: 6.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-ultt-26D .line-2-mpV {
+  width: 192rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  background-color: #ff8080;
+}
+.form2-ivm .auto-group-ultt-26D .traffic-accident-report-form-Wn5 {
+  width: 56.9rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 68.3rem;
+  top: 0;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.form2-ivm .auto-group-xd87-QcZ {
+  width: 100%;
+  height: 193.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-9ts7-kRX {
+  width: 19rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 30.55rem;
+  top: 15.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-9ts7-kRX .item-4-t1w {
+  margin-right: 6.4rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-9ts7-kRX .driver-oeh {
+  margin-bottom: 0.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-xbg7-XKo {
+  width: 106.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 40.2rem;
+  top: 23.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-xbg7-XKo .drivers-official-names-pph {
+  margin: 0rem 1.3rem 0.5rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-xbg7-XKo .rectangle-21-KmT {
+  margin-right: 2.85rem;
+  width: 42rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-xbg7-XKo .contact-details-eHw {
+  margin: 0rem 1.65rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-xbg7-XKo .rectangle-39-Zfo {
+  width: 26rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-y3ik-VpM {
+  width: 105.85rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 40.45rem;
+  top: 32.5rem;
+  display: flex;
+  align-items: center;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-y3ik-VpM .date-of-birth-RT7 {
+  margin: 1.2rem 8.75rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-y3ik-VpM .auto-group-pxdv-wRT {
+  margin: 0rem 2.95rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.1rem 0.522rem 0.1rem 38.3rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-y3ik-VpM .auto-group-pxdv-wRT .image-11-3UV {
+  width: 3.1778rem;
+  height: 3.3rem;
+  vertical-align: top;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-y3ik-VpM .occupation-kdo {
+  margin: 0.4rem 4.15rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-y3ik-VpM .rectangle-22-Gs3 {
+  margin-bottom: 1.1rem;
+  width: 26.6rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-nfjh-Pwf {
+  width: 106.9rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 39.4rem;
+  top: 42.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-nfjh-Pwf .id-number-passport-number-88Z {
+  margin-right: 3.4rem;
+  max-width: 18rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-nfjh-Pwf .rectangle-40-EBb {
+  width: 85.5rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-5m23-9JZ {
+  width: 107.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 39.2rem;
+  top: 53.2rem;
+  display: flex;
+  align-items: flex-start;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-5m23-9JZ .drivers-license-number-fXo {
+  margin: 0.1rem 2rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-5m23-9JZ .rectangle-47-mqj {
+  margin-right: 3.65rem;
+  width: 29rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-5m23-9JZ .drivers-license-expiry-date-JKs {
+  margin-right: 0.95rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-5m23-9JZ .auto-group-mft1-1zy {
+  box-sizing: border-box;
+  padding: 0.2rem 0.322rem 0.2rem 19.8rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-5m23-9JZ .auto-group-mft1-1zy .image-13-x9X {
+  width: 3.1778rem;
+  height: 3.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-xano-g5X {
+  width: 107rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 40rem;
+  top: 76.2rem;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-xano-g5X .rectangle-43-1db {
+  width: 107rem;
+  height: 20.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-xano-g5X .words-Xrq {
+  width: 10.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 95.3rem;
+  top: 16.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-xano-g5X .eg-drunk-driving-accident-hit-and-run-accident-FH3 {
+  width: 45.3rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 2.65rem;
+  top: 1.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: rgba(0, 0, 0, 0.4600000083);
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vzej-8rd {
+  width: 107rem;
+  height: 24.3rem;
+  position: absolute;
+  left: 39.3rem;
+  top: 107rem;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vzej-8rd .rectangle-46-frZ {
+  width: 107rem;
+  height: 20.4rem;
+  position: absolute;
+  left: 0;
+  top: 3.9rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vzej-8rd .eg-give-drivers-insurance-name-and-expiry-date-P1s {
+  width: 45.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 4.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: rgba(0, 0, 0, 0.4600000083);
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vzej-8rd .if-yes-give-insurance-details-59b {
+  width: 25.2rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 1.95rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vzej-8rd .words-N8h {
+  width: 10.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 95.7rem;
+  top: 19.4rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vzej-8rd .oo-words-sr9 {
+  width: 10.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 28.65rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-zrhh-bGM {
+  width: 31.25rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 41.6rem;
+  top: 71.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-zrhh-bGM .if-yes-provide-details-vpR {
+  margin: 0.1rem 0.85rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-zrhh-bGM .oo-words-3PF {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-quj5-z3b {
+  width: 76.6rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 40.35rem;
+  top: 100.2rem;
+  display: flex;
+  align-items: center;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-quj5-z3b .does-driver-own-the-vehicle-WGq {
+  margin: 0.5rem 3.65rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-quj5-z3b .rectangle-44-pYR {
+  margin: 0.1rem 3.05rem 0rem 0rem;
+  width: 6.2rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-quj5-z3b .yes-LWm {
+  margin: 0rem 22.85rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-quj5-z3b .rectangle-45-4Sm {
+  margin: 0.1rem 2.15rem 0rem 0rem;
+  width: 6.2rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-quj5-z3b .no-BGV {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-jtl7-uyB {
+  width: 106.7rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 39.3rem;
+  top: 165.7rem;
+  display: flex;
+  align-items: center;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-jtl7-uyB .auto-group-dpuf-2Y1 {
+  margin-right: 42.7rem;
+  width: 32rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #c99b2b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-jtl7-uyB .auto-group-qxgs-6Gy {
+  width: 32rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #c99b2b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-6ed9-aC9 {
+  width: 103.4rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 45.8rem;
+  top: 4.6rem;
+  display: flex;
+  align-items: center;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-6ed9-aC9 .ellipse-1-tyX {
+  margin-top: 0.4rem;
+  width: 3.8rem;
+  height: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-6ed9-aC9 .auto-group-9hsk-EXb {
+  margin-top: 0.4rem;
+  width: 46.9rem;
+  height: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-6ed9-aC9 .ellipse-2-mnR {
+  margin-top: 0.4rem;
+  width: 3.8rem;
+  height: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-6ed9-aC9 .line-4-K3F {
+  margin-top: 0.4rem;
+  width: 45.1rem;
+  height: 0.1rem;
+  background-color: #020642;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-6ed9-aC9 .ellipse-3-FxV {
+  margin-bottom: 0.4rem;
+  width: 3.8rem;
+  height: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-4ovt-1Ay {
+  width: 111.9rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 42.15rem;
+  top: 10.3rem;
+  display: flex;
+  align-items: center;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-4ovt-1Ay .vehicle-details-LU9 {
+  margin-right: 37.85rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-4ovt-1Ay .driver-details-GMo {
+  margin-right: 36.45rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-4ovt-1Ay .accident-details-PSR {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vp3r-X2q {
+  width: 94.65rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 38.7rem;
+  top: 62.5rem;
+  display: flex;
+  align-items: center;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vp3r-X2q .has-the-driver-had-any-previous-vehicle-accidents--EC9 {
+  margin: 1.7rem 1.9rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vp3r-X2q .rectangle-41-jPo {
+  margin: 0.9rem 3.05rem 0rem 0rem;
+  width: 6.2rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vp3r-X2q .yes-3fP {
+  margin: 0.9rem 22.85rem 0rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vp3r-X2q .rectangle-42-ZNq {
+  margin: 0rem 2.15rem 0.3rem 0rem;
+  width: 6.2rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.form2-ivm .auto-group-xd87-QcZ .auto-group-vp3r-X2q .no-UVo {
+  margin-bottom: 0.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

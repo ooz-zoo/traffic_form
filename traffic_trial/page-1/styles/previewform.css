@@ -1,0 +1,2592 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.previewform-Joj {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.previewform-Joj .auto-group-jddd-db7 {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 19.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-jddd-db7 .image-12-Ab3 {
+  width: 192rem;
+  height: 15.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.previewform-Joj .auto-group-jddd-db7 .item-999-112-911-JBT {
+  width: 9.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 173.7rem;
+  top: 15.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.previewform-Joj .auto-group-jddd-db7 .item-999-112-911-JBT .item-999-112-911-JBT-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #cc1717;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.previewform-Joj .auto-group-jddd-db7 .item-999-112-911-JBT .item-999-112-911-JBT-sub-1 {
+}
+.previewform-Joj .auto-group-jddd-db7 .item-999-112-911-JBT .item-999-112-911-JBT-sub-2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.previewform-Joj .auto-group-jddd-db7 .police-hot-lines-f3w {
+  width: 14.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 156.95rem;
+  top: 15.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .line-2-MSZ {
+  margin-bottom: 1rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #ff8080;
+  flex-shrink: 0;
+}
+.previewform-Joj .traffic-accident-report-form-Hr1 {
+  margin-left: 4.5rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV {
+  width: 100%;
+  height: 553.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jfhd-spD {
+  width: 112.2rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 35.8rem;
+  top: 7.3rem;
+  display: flex;
+  align-items: flex-end;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jfhd-spD .item-1-Q3T {
+  margin: 0rem 2.75rem 4.4rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jfhd-spD .auto-group-9jmd-JPj {
+  margin: 1.4rem 3.6rem 0.5rem 0rem;
+  width: 15.35rem;
+  height: calc(100% - 1.9rem);
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jfhd-spD .auto-group-9jmd-JPj .vehicle-cvD {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jfhd-spD .auto-group-9jmd-JPj .make-and-model-whb {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jfhd-spD .auto-group-ysyd-ftV {
+  width: 87.8rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jfhd-spD .auto-group-ysyd-ftV .rectangle-21-d4d {
+  width: 87.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jfhd-spD .auto-group-ysyd-ftV .hyundai-civic-LUq {
+  width: 21.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 10.15rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-dsuf-38M {
+  width: 23.75rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 35.55rem;
+  top: 65.1rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-dsuf-38M .item-2-kYZ {
+  margin-right: 4.35rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-dsuf-38M .vehicle-use-Gmo {
+  margin-top: 0.7rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 {
+  width: 111.9rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 36.9rem;
+  top: 108.2rem;
+  display: flex;
+  align-items: flex-end;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .item-3-7nR {
+  margin: 0rem 3.9rem 5.1rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .auto-group-jmmd-E6M {
+  margin: 0rem 0.2rem 0.3rem 0rem;
+  width: 43.4rem;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .auto-group-jmmd-E6M .commercial-vehicle-if-applicable-xo3 {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .auto-group-jmmd-E6M .commercial-vehicle-if-applicable-xo3 .commercial-vehicle-if-applicable-xo3-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .auto-group-jmmd-E6M .commercial-vehicle-if-applicable-xo3 .commercial-vehicle-if-applicable-xo3-sub-1 {
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .auto-group-jmmd-E6M .commercial-vehicle-if-applicable-xo3 .commercial-vehicle-if-applicable-xo3-sub-2 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .auto-group-jmmd-E6M .description-of-goods-being-carried-1uj {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .auto-group-fu7q-wYV {
+  width: 61.5rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .auto-group-fu7q-wYV .rectangle-30-6RP {
+  width: 61.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-vd1u-o13 .auto-group-fu7q-wYV .goods-QS5 {
+  width: 7.1rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.85rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-zbu7-75b {
+  width: 106.05rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 41.95rem;
+  top: 22rem;
+  display: flex;
+  align-items: flex-start;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-zbu7-75b .horsepower-EAD {
+  margin: 0.8rem 7.25rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-zbu7-75b .auto-group-ut4f-Lj3 {
+  margin-right: 6.2rem;
+  width: 30rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-zbu7-75b .auto-group-ut4f-Lj3 .rectangle-22-gnu {
+  width: 30rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.8rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-zbu7-75b .auto-group-ut4f-Lj3 .item-147-DH3 {
+  width: 3.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 5.65rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-zbu7-75b .year-of-manufacture-897 {
+  margin-right: 4.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-zbu7-75b .auto-group-jd3r-eNM {
+  margin-top: 0.1rem;
+  width: 30.2rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-zbu7-75b .auto-group-jd3r-eNM .rectangle-23-PKw {
+  width: 30.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-zbu7-75b .auto-group-jd3r-eNM .item-2020-uZB {
+  width: 5.5rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 11.45rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb {
+  width: 106.55rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 41.45rem;
+  top: 31.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb .license-plate-no-LeV {
+  margin-right: 2.75rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb .auto-group-pbcp-Go3 {
+  margin: 0.7rem 5.45rem 0rem 0rem;
+  width: 30rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb .auto-group-pbcp-Go3 .rectangle-24-Cgh {
+  width: 30rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb .auto-group-pbcp-Go3 .kcf-4050j-KmK {
+  width: 12rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb .license-plate-expiry-date-eHo {
+  margin: 0.8rem 1.25rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb .auto-group-m9uo-xJV {
+  margin-top: 0.1rem;
+  width: 30rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb .auto-group-m9uo-xJV .rectangle-25-J7T {
+  width: 30rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb .auto-group-m9uo-xJV .image-11-cdw {
+  width: 3.1777rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 26.3rem;
+  top: 0.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9x47-cTb .auto-group-m9uo-xJV .item-03-08-2025-wRK {
+  width: 12.9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 9rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jrhd-1g5 {
+  width: 107.3rem;
+  height: 9rem;
+  position: absolute;
+  left: 40.7rem;
+  top: 41.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jrhd-1g5 .registration-no-trailer-YAD {
+  margin: 0.7rem 4.1rem 0rem 0rem;
+  max-width: 15.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jrhd-1g5 .auto-group-dxns-SWV {
+  margin: 1.2rem 5.8rem 2.6rem 0rem;
+  width: 30rem;
+  height: calc(100% - 3.8rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jrhd-1g5 .auto-group-dxns-SWV .rectangle-26-mYm {
+  width: 30rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jrhd-1g5 .auto-group-dxns-SWV .kcf-4053y-hBX {
+  width: 12.4rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jrhd-1g5 .carrying-capacity-okM {
+  margin: 0.8rem 6.5rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jrhd-1g5 .auto-group-mv4o-7FF {
+  width: 30rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jrhd-1g5 .auto-group-mv4o-7FF .rectangle-27-Ta1 {
+  width: 30rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jrhd-1g5 .auto-group-mv4o-7FF .item-5-Nws {
+  width: 1.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 12.45rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jbtx-67B {
+  width: 106.9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 41.1rem;
+  top: 51.6rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jbtx-67B .car-insurance-DxV {
+  margin: 0rem 6.5rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jbtx-67B .auto-group-jwqu-wdb {
+  width: 87.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jbtx-67B .auto-group-jwqu-wdb .rectangle-28-hMs {
+  width: 87.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jbtx-67B .auto-group-jwqu-wdb .ga-insurance-DLD {
+  width: 15.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jbtx-67B .auto-group-jwqu-wdb .image-9-XLu {
+  width: 4.0966rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 0.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-aruv-FGu {
+  width: 108.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 42.25rem;
+  top: 73.4rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-aruv-FGu .state-the-exact-purpose-for-which-the-vehicle-was-being-used-at-the-time-of-the-accident-aKB {
+  margin-right: 0.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-aruv-FGu .oo-words-U9f {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-bu9m-zdo {
+  width: 94.2rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 44.55rem;
+  top: 134.1rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-bu9m-zdo .was-a-trailer-attached-gmX {
+  margin: 1.4rem 21.95rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-bu9m-zdo .auto-group-zdv5-kmP {
+  margin: 0.6rem 2.25rem 1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.6rem 1.8rem 0.9rem 1.8rem;
+  height: calc(100% - 1.6rem);
+  border: solid 0.1rem #020642;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-bu9m-zdo .auto-group-zdv5-kmP .image-26-dKP {
+  width: 2.6rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-bu9m-zdo .yes-YBT {
+  margin: 0rem 27.65rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-bu9m-zdo .rectangle-33-f1B {
+  margin: 0rem 2.15rem 0.4rem 0rem;
+  width: 6.2rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-bu9m-zdo .no-ZcM {
+  margin-bottom: 0.4rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted {
+  width: 104.55rem;
+  height: 6rem;
+  position: absolute;
+  left: 44.25rem;
+  top: 144.7rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted .weight-of-load-on-DB7 {
+  margin: 0rem 27.4rem 1.8rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted .i-vehicle-7nH {
+  margin: 0.6rem 1.75rem 0rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted .auto-group-et6j-e1X {
+  margin: 0.6rem 8.3rem 0.2rem 0rem;
+  width: 13.2rem;
+  height: calc(100% - 0.8rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted .auto-group-et6j-e1X .rectangle-34-ZuB {
+  width: 13.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted .auto-group-et6j-e1X .kgs-6PK {
+  width: 6.6rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 2.75rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted .ii-trailer-oYd {
+  margin: 0.8rem 3.4rem 0rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted .auto-group-vorv-vNM {
+  margin-top: 1.1rem;
+  width: 13.2rem;
+  height: 4.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted .auto-group-vorv-vNM .rectangle-35-TdB {
+  width: 13.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-jk3u-ted .auto-group-vorv-vNM .in-kgs-nfT {
+  width: 5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 4.05rem;
+  top: 0.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: rgba(0, 0, 0, 0.4600000083);
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-gccj-VJy {
+  width: 103.85rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 44.95rem;
+  top: 125.3rem;
+  display: flex;
+  align-items: flex-end;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-gccj-VJy .name-of-owner-of-goods-1o7 {
+  margin-right: 20.65rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-gccj-VJy .auto-group-xzbh-wAy {
+  width: 61.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-gccj-VJy .auto-group-xzbh-wAy .rectangle-31-tc1 {
+  width: 61.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-gccj-VJy .auto-group-xzbh-wAy .item-147-oiy {
+  width: 3.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 7.55rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-8tao-iqw {
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1.1rem 5.55rem;
+  width: 104.8rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 44rem;
+  top: 80.9rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #020642;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-8tao-iqw .transporting-goods-particular-goats-p8H {
+  margin-bottom: 9.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-8tao-iqw .words-vx1 {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh {
+  width: 112.2rem;
+  height: 12rem;
+  position: absolute;
+  left: 40.6rem;
+  top: 277.5rem;
+  display: flex;
+  align-items: flex-end;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh .item-5-Zk5 {
+  margin: 0rem 0.45rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh .auto-group-eny1-5TX {
+  margin: 1.4rem 9.45rem 0.5rem 0rem;
+  width: 13.7rem;
+  height: calc(100% - 1.9rem);
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh .auto-group-eny1-5TX .accident-CY9 {
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh .auto-group-eny1-5TX .accident-date-9CV {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh .auto-group-bvjd-5M3 {
+  margin-right: 7.75rem;
+  width: 41.4rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh .auto-group-bvjd-5M3 .rectangle-61-DTF {
+  width: 41.4rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh .auto-group-bvjd-5M3 .item-03-08-2022-Lnm {
+  width: 12.9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh .time-T6h {
+  margin: 0rem 3.45rem 0.5rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ecqk-Exh .rectangle-62-yaq {
+  margin-bottom: 0.8rem;
+  width: 28.5rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-pfwr-txh {
+  width: 29rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 40.35rem;
+  top: 333.6rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-pfwr-txh .item-6-EFs {
+  margin-right: 1.1rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-pfwr-txh .driver-statement-9td {
+  margin-top: 0.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ebth-5nH {
+  width: 27.15rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 40.55rem;
+  top: 378.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ebth-5nH .item-7-pUy {
+  margin-right: 1.75rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ebth-5nH .vehicle-damage-vY1 {
+  margin-bottom: 0.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX {
+  width: 112.15rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 39.95rem;
+  top: 403.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .item-8-acZ {
+  margin-right: 1.65rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M {
+  margin-top: 1.5rem;
+  width: 106.9rem;
+  row-gap: 0.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .property-damage-Ex1 {
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .line-15-aFB {
+  margin: 0rem 63.5rem 0rem 43.3rem;
+  width: calc(100% - 106.8rem);
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .auto-group-hzqm-Vd3 {
+  margin-left: 0.5rem;
+  width: 106.4rem;
+  height: 12.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .auto-group-hzqm-Vd3 .rectangle-74-2N5 {
+  width: 106.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #c99b2b;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .auto-group-hzqm-Vd3 .description-9Sh {
+  width: 11.2rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 44.85rem;
+  top: 0.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .auto-group-hzqm-Vd3 .rectangle-75-G1X {
+  width: 106.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .auto-group-hzqm-Vd3 .rectangle-76-b3o {
+  width: 106.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 8.6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .auto-group-hzqm-Vd3 .name-7Xw {
+  width: 5.3rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 10rem;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .auto-group-hzqm-Vd3 .street-light-pole-E6m {
+  width: 18.9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 4.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-h6om-3sX .auto-group-tggb-K4M .auto-group-hzqm-Vd3 .driver-struck-light-pole-while-taking-a-left-turn-9Dj {
+  width: 52.4rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 47.2rem;
+  top: 3.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo {
+  width: 112.45rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 39.95rem;
+  top: 430.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .item-9-A8q {
+  margin-right: 1.85rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 {
+  margin-top: 1.4rem;
+  width: 107rem;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ns4k-Sc9 {
+  margin: 0rem 35.67rem 0rem 0.3rem;
+  width: calc(100% - 35.9701rem);
+  height: 6.2rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ns4k-Sc9 .independent-witness-AY9 {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ns4k-Sc9 .auto-group-y9zk-6wb {
+  box-sizing: border-box;
+  padding: 6rem 0rem 0.1rem 6.986rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ns4k-Sc9 .auto-group-y9zk-6wb .line-18-SVf {
+  margin-right: 33.7491rem;
+  width: 0.1474rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ns4k-Sc9 .auto-group-y9zk-6wb .line-19-abs {
+  width: 0.1474rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 {
+  width: 100%;
+  height: 12.9rem;
+  position: relative;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .item-254701234567892-4mw {
+  width: 20.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 41.75rem;
+  top: 4.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .rectangle-78-kem {
+  width: 107rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #c99b2b;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .physical-address-Uqf {
+  width: 15.9rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 82.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .telephone-no-o7F {
+  width: 13.2rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 45.95rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .rectangle-79-ug5 {
+  width: 106.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .item-254701234567892-dry {
+  width: 25.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 41.75rem;
+  top: 4.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  margin-top: 0.2%;
+  margin-left: -2%;
+  border-radius: 0.7rem;
+  background-color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .garden-estate-LmP {
+  width: 15.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 79.4rem;
+  top: 4.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .roy-malick-4Bb {
+  width: 13rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 4.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .rectangle-80-AkR {
+  width: 106.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0;
+  top: 8.6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-wubm-dPo .auto-group-vnkt-VS1 .auto-group-ufxf-XX7 .name-JLq {
+  width: 5.3rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 10rem;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-dpa7-Qem {
+  width: 108.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 44.1rem;
+  top: 292.6rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-dpa7-Qem .accident-location-YFB {
+  margin: 0.3rem 7.7rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-dpa7-Qem .auto-group-gslb-SrM {
+  width: 85.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-dpa7-Qem .auto-group-gslb-SrM .rectangle-66-QHP {
+  width: 85.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.8rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-dpa7-Qem .auto-group-gslb-SrM .drive-in-thika-road-8DP {
+  width: 22.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 18.35rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-8n9z-q7o {
+  width: 108.95rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 43.85rem;
+  top: 301.6rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-8n9z-q7o .road-type-Mbw {
+  margin: 0.3rem 14.45rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-8n9z-q7o .auto-group-jcj5-5H3 {
+  width: 85.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-8n9z-q7o .auto-group-jcj5-5H3 .rectangle-67-Rbo {
+  width: 85.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.8rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-8n9z-q7o .auto-group-jcj5-5H3 .image-13-9Xo {
+  width: 4.0966rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 81.1rem;
+  top: 1.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-8n9z-q7o .auto-group-jcj5-5H3 .expressway-UKB {
+  width: 13.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 20.45rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-xat3-BjP {
+  width: 109.4rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 43.4rem;
+  top: 317.5rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-xat3-BjP .average-speed-km-h-Wmf {
+  margin: 0rem 5.5rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-xat3-BjP .auto-group-gq6p-Rtd {
+  margin: 0rem 4.2rem 0.3rem 0rem;
+  width: 32rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-xat3-BjP .auto-group-gq6p-Rtd .rectangle-69-N3B {
+  width: 32rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-xat3-BjP .auto-group-gq6p-Rtd .km-h-V7o {
+  width: 9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-xat3-BjP .weather-conditions-bgd {
+  margin: 0rem 4rem 0.2rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-xat3-BjP .auto-group-jalt-7Q5 {
+  margin-top: 0.3rem;
+  width: 28.5rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-xat3-BjP .auto-group-jalt-7Q5 .rectangle-65-FmB {
+  width: 28.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-xat3-BjP .auto-group-jalt-7Q5 .rainy-mDj {
+  width: 6.4rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 10.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uv9h-tJM {
+  width: 109.65rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 43.15rem;
+  top: 308.9rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uv9h-tJM .visibility-cEM {
+  margin: 1.3rem 15.95rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uv9h-tJM .auto-group-3vhh-KuT {
+  margin: 0.4rem 3.8rem 0rem 0rem;
+  width: 32rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uv9h-tJM .auto-group-3vhh-KuT .rectangle-63-Fo7 {
+  width: 32rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uv9h-tJM .auto-group-3vhh-KuT .close-to-zero-P8d {
+  width: 14.5rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 8.45rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uv9h-tJM .wet-or-dry-road-surface-Hjo {
+  margin: 0.3rem 1.2rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uv9h-tJM .auto-group-kh8f-oTF {
+  margin-bottom: 0.4rem;
+  width: 28.5rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uv9h-tJM .auto-group-kh8f-oTF .rectangle-64-8kR {
+  width: 28.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uv9h-tJM .auto-group-kh8f-oTF .wet-Fq3 {
+  width: 4.5rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 9.95rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uskf-Nem {
+  width: 109.65rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 43.15rem;
+  top: 324.6rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uskf-Nem .to-which-station-was-the-accident-reported--6qf {
+  margin: 0.2rem 2.35rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uskf-Nem .auto-group-xvyq-Cth {
+  width: 67.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uskf-Nem .auto-group-xvyq-Cth .rectangle-68-kfK {
+  width: 67.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-uskf-Nem .auto-group-xvyq-Cth .garden-estate-police-station-gJ5 {
+  width: 31.5rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 10.95rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-d8a7-nru {
+  box-sizing: border-box;
+  padding: 1.8rem 9.25rem 2.6rem 9.25rem;
+  width: 107rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 45.1rem;
+  top: 348.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #020642;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .rectangle-71-q4V {
+  width: 107rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 45.1rem;
+  top: 367.5rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-hfcf-YUh {
+  box-sizing: border-box;
+  padding: 2.7rem 9.1rem 1.6rem 9.1rem;
+  width: 107rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 45.1rem;
+  top: 392.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #020642;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .give-the-drivers-statement--msF {
+  width: 25.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 45.5rem;
+  top: 342.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .state-briefly-damage-acquired-by-the-vehicle-sQV {
+  width: 39.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 387.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .i-declare-that-these-particulars-are-true-and-correct-and-undertake-to-forward-any-correspondence-relating-to-the-accident-Nc9 {
+  width: 109.8rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 42.35rem;
+  top: 464.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.previewform-Joj .auto-group-qtvy-cNV .give-the-car-owners-statement-if-applicable--FA9 {
+  width: 41.9rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 45.35rem;
+  top: 361.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.previewform-Joj .auto-group-qtvy-cNV .give-the-car-owners-statement-if-applicable--FA9 .give-the-car-owners-statement-if-applicable--FA9-sub-0 {
+}
+.previewform-Joj .auto-group-qtvy-cNV .give-the-car-owners-statement-if-applicable--FA9 .give-the-car-owners-statement-if-applicable--FA9-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+}
+.previewform-Joj .auto-group-qtvy-cNV .give-the-car-owners-statement-if-applicable--FA9 .give-the-car-owners-statement-if-applicable--FA9-sub-2 {
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ssef-JXj {
+  width: 82.4rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 56.2rem;
+  top: 506.6rem;
+}
+
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ssef-JXj .rectangle-73-3VK {
+  width: 82.4rem;
+  height: 7.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #c99b2b;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-ssef-JXj .submit-form-ZTf {
+  width: 80.1rem;
+  height: 8.3rem;
+  position: absolute;
+  margin-left: -35%;
+  left: 29.55rem;
+  top: 0;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #020642;
+  background-color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .rectangle-77-Gss {
+  width: 106.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 45.7rem;
+  top: 424.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.previewform-Joj .auto-group-qtvy-cNV .wanjiru-wangari-b9T {
+  width: 19.4rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 87rem;
+  top: 484.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .rectangle-81-hTP {
+  width: 106.7rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 45.4rem;
+  top: 451rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.previewform-Joj .auto-group-qtvy-cNV .line-20-RPP {
+  width: 52.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 71.6rem;
+  top: 490.4rem;
+  background-color: #000000;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK {
+  width: 113.55rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 38.25rem;
+  top: 155.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .item-4-UcZ {
+  margin: 0rem 4.05rem 4.9rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .auto-group-dwmq-Nhw {
+  margin: 1.4rem 1.3rem 1.3rem 0rem;
+  width: 19.3rem;
+  height: calc(100% - 2.7rem);
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .auto-group-dwmq-Nhw .driver-JLh {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .auto-group-dwmq-Nhw .drivers-official-names-33P {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .auto-group-gfak-xw3 {
+  margin: 0rem 2.85rem 1.2rem 0rem;
+  width: 42rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .auto-group-gfak-xw3 .rectangle-51-tph {
+  width: 42rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .auto-group-gfak-xw3 .dan-cillian-martin-pCZ {
+  width: 20.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .contact-details-X6y {
+  margin: 0rem 1.65rem 0.9rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .auto-group-x1zv-SDw {
+  width: 26rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .auto-group-x1zv-SDw .rectangle-39-yzZ {
+  width: 26rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-kzz5-xPK .auto-group-x1zv-SDw .item-254701234543-6pH {
+  width: 16rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 4.65rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ {
+  width: 105.85rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 45.95rem;
+  top: 172rem;
+  display: flex;
+  align-items: flex-end;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ .date-of-birth-8FB {
+  margin-right: 8.75rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ .auto-group-rrfq-THT {
+  margin: 0rem 2.95rem 0.6rem 0rem;
+  width: 42rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ .auto-group-rrfq-THT .rectangle-38-BUM {
+  width: 42rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ .auto-group-rrfq-THT .image-30-WFj {
+  width: 3.1777rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 38.3rem;
+  top: 0.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ .auto-group-rrfq-THT .item-03-08-1985-qJ1 {
+  width: 12.9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ .occupation-LEm {
+  margin: 0rem 4.15rem 0.4rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ .auto-group-wnb5-Fcd {
+  margin-bottom: 0.6rem;
+  width: 26.6rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ .auto-group-wnb5-Fcd .rectangle-82-PTw {
+  width: 26.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-rg9q-1AZ .auto-group-wnb5-Fcd .doctor-Jqo {
+  width: 7.7rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-pgxm-crV {
+  width: 106.9rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 44.9rem;
+  top: 181.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-pgxm-crV .id-number-passport-number-7HT {
+  margin: 0.6rem 3.4rem 0rem 0rem;
+  max-width: 18rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-pgxm-crV .auto-group-futk-cED {
+  width: 85.5rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-pgxm-crV .auto-group-futk-cED .rectangle-40-xJ5 {
+  width: 85.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-pgxm-crV .auto-group-futk-cED .aef43gt9001t-gUy {
+  width: 18.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys {
+  width: 107.1rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 44.7rem;
+  top: 192.7rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys .drivers-license-number-WU1 {
+  margin: 0.5rem 2rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys .auto-group-hzep-DNR {
+  margin: 0.1rem 3.65rem 0rem 0rem;
+  width: 29rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys .auto-group-hzep-DNR .rectangle-47-wZK {
+  width: 29rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys .auto-group-hzep-DNR .wr579h-Fpu {
+  width: 9.9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys .drivers-license-expiry-date-Agy {
+  margin: 0.3rem 0.95rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys .auto-group-zlz9-sbP {
+  margin-bottom: 0.1rem;
+  width: 23.3rem;
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys .auto-group-zlz9-sbP .rectangle-48-cYy {
+  width: 23.3rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0.7rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys .auto-group-zlz9-sbP .image-31-wLM {
+  width: 3.1777rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 0.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-b1tf-yys .auto-group-zlz9-sbP .item-03-08-2024-f1T {
+  width: 13.1rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-pxiw-Mey {
+  box-sizing: border-box;
+  padding: 1.4rem 2rem;
+  width: 107rem;
+  height: 20.4rem;
+  position: absolute;
+  left: 45.5rem;
+  top: 214.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #020642;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-9yqz-oms {
+  box-sizing: border-box;
+  padding: 1rem 2.55rem;
+  width: 107rem;
+  height: 20.4rem;
+  position: absolute;
+  left: 44.8rem;
+  top: 251.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #020642;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+}
+.previewform-Joj .auto-group-qtvy-cNV .if-yes-provide-details-UND {
+  width: 20rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 47.1rem;
+  top: 209.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .if-yes-give-insurance-details-yZs {
+  width: 25.2rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 46.35rem;
+  top: 246.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-q1br-5N1 {
+  width: 76.6rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 45.85rem;
+  top: 238.7rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-q1br-5N1 .does-driver-own-the-vehicle-zUy {
+  margin: 0.5rem 3.65rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-q1br-5N1 .auto-group-fdco-6Y1 {
+  margin: 0.7rem 3.05rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.7rem 1.8rem 0.8rem 1.8rem;
+  height: calc(100% - 1.3rem);
+  border: solid 0.1rem #020642;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-q1br-5N1 .auto-group-fdco-6Y1 .image-27-Cb3 {
+  width: 2.6rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-q1br-5N1 .yes-vX3 {
+  margin: 0rem 22.85rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-q1br-5N1 .rectangle-45-FJR {
+  margin: 0.1rem 2.15rem 0rem 0rem;
+  width: 6.2rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-q1br-5N1 .no-xid {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-w2ry-6K3 {
+  width: 94.55rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 45.9rem;
+  top: 202.5rem;
+  display: flex;
+  align-items: center;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-w2ry-6K3 .has-the-driver-had-any-previous-vehicle-accidents--cHP {
+  margin: 0rem 1.8rem 0.5rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-w2ry-6K3 .auto-group-i2qh-vJ5 {
+  margin: 0.7rem 3.05rem 0.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.4rem 1.8rem;
+  height: calc(100% - 1.3rem);
+  border: solid 0.1rem #020642;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-w2ry-6K3 .auto-group-i2qh-vJ5 .image-29-eE5 {
+  width: 2.6rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-w2ry-6K3 .yes-ZM3 {
+  margin: 0rem 22.85rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-w2ry-6K3 .rectangle-53-ggZ {
+  margin: 0.1rem 2.15rem 0rem 0rem;
+  width: 6.2rem;
+  height: 4rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #fffefd;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.previewform-Joj .auto-group-qtvy-cNV .auto-group-w2ry-6K3 .no-CQ1 {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

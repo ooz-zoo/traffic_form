@@ -1,0 +1,258 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 189rem;
+}.login-screen-xrd {
+  box-sizing: border-box;
+  padding: 0rem 0.3rem 0rem 23.7rem;
+  width: 95%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #c99b2b;
+}
+
+/* Add this to your CSS */
+.password-toggle {
+  cursor: pointer;
+  position: absolute;
+  right: 10px; /* Adjust the position as needed */
+  top: 50%; /* Adjust the position as needed */
+  transform: translateY(-50%);
+}
+
+/* Style the icon as needed */
+.password-toggle:hover {
+  filter: brightness(1.2);
+}
+
+.login-screen-xrd .auto-group-wwkj-UiV {
+  margin: 0rem 8.7rem 11rem 0rem;
+  box-sizing: border-box;
+  padding-top: 11.8rem;
+  width: 44rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .kenya-police-traffic-accident-report-system-CgR {
+  margin-bottom: 3.4rem;
+  max-width: 44rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .enter-email-address-or-username-END {
+  margin: 0rem 8.7rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-bhuu-6fK {
+  margin: 0rem 0rem 6.1rem 3rem;
+  box-sizing: border-box;
+  padding: 0.5rem 0.9rem 0.2rem 0.9rem;
+  width: 38.4rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: rgba(0, 0, 0, 0.4399999976);
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .password-iAu {
+  margin: 0rem 28rem 0.1rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-q26o-pzd {
+  margin: 0rem 0rem 4.9rem 3rem;
+  width: 38.4rem;
+  height: 4.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-q26o-pzd .rectangle-5-jrh {
+  width: 38.4rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-q26o-pzd .image-5-eCy {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 35.5rem;
+  top: 1.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-q26o-pzd .enter-password-Y3T {
+  width: 38rem;
+  height: 4.0rem;
+  position: absolute;
+  margin-left: -0.3cm;
+  left: 0.9rem;
+  border-radius: 0.5rem;
+  top: 0.8rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: rgba(0, 0, 0, 0.4399999976);
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-j89q-pWm {
+  margin: 0rem 1.6rem 3.4rem 4.3rem;
+  width: calc(100% - 5.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-j89q-pWm .rectangle-2-Lk1 {
+  margin: 0rem 1.3rem 0.6rem 0rem;
+  width: 2.4rem;
+  height: 2.5rem;
+  background-color: #fffefd;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-j89q-pWm .remember-for-30-days-GNm {
+  margin-right: 4.6rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-j89q-pWm .forgot-password-z3s {
+  margin-bottom: 0.2rem;
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  text-decoration-line: underline;
+  color: #020642;
+  margin-left: -0.3cm;
+  margin-top: 0.2cm;
+  border: none;
+  background-color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-cdmv-sdT {
+  margin: 0rem 2.2rem 4.1rem 4.3rem;
+  width: calc(100% - 6.5rem);
+  height: 5.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-cdmv-sdT .log-in-8JV {
+  width: 39.0rem;
+  height: 5.2rem;
+  position: absolute;
+  margin-top: 1.6%;
+  margin-left: -38%;
+  border-radius: 0.7rem;
+  left: 13.75rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #ffffff;
+  background-color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-1myv-2uf {
+  margin: 0rem 7.9rem 0rem 8rem;
+  width: calc(100% - 15.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-1myv-2uf .dont-have-an-account-Zub {
+  margin-right: 1rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 800;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-wwkj-UiV .auto-group-1myv-2uf .create-account-Gp1 {
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 2.5775;
+  text-decoration-line: underline;
+  color: #020642;
+  background-color: #c99b2b;
+  border: none;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-3yjs-zV7 {
+  width: 115.3rem;
+  height: 102.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-screen-xrd .auto-group-3yjs-zV7 .rectangle-1-ig1 {
+  width: 96rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 19.3rem;
+  top: 0;
+  background-color: #fffefd;
+  border-radius: 3.9rem 0 0 3.9rem;
+}
+.login-screen-xrd .auto-group-3yjs-zV7 .high-res-1-2Ro {
+  width: 67.3rem;
+  height: 99rem;
+  position: absolute;
+  left: 35.1rem;
+  top: 1.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}

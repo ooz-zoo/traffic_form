@@ -1,0 +1,209 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 189rem;
+}.history-screen--PqT {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.history-screen--PqT .image-27-i73 {
+  margin: 0rem 0rem 1.2rem 0.1rem;
+  width: 190.3rem;
+  height: 18rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.history-screen--PqT .line-1-pQy {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #ff8080;
+  flex-shrink: 0;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 {
+  box-sizing: border-box;
+  padding: 0.1rem 5.7rem 16.6rem 8.95rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd {
+  margin: 0rem 3.3rem 45.8rem 0rem;
+  width: 174.05rem;
+  height: 24.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .your-past-submissions-DCD {
+  width: 49.9rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .rectangle-87-uaq {
+  width: 173.2rem;
+  height: 14.8rem;
+  position: absolute;
+  left: 0.85rem;
+  top: 10rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .submitted-nov-10-2023-ow7 {
+  width: 25.1rem;
+  height: 5.2rem;
+  position: absolute;
+  
+  left: 118.5rem;
+  top: 17.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .tp001-JN5 {
+  width: 14.5rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 10.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #c99b2b;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none; /* Remove underline by default */
+  cursor: pointer; /* Change cursor to pointer */
+  display: inline-block; /* Ensure that the hover effect covers the entire element */
+}
+
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .tp001-JN5:hover {
+  text-decoration: underline;
+  color: #020642; /* Underline on hover */
+}
+
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .tp001-JN5:active {
+  color: #020642; /* Darker blue on click */
+}
+
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .traffic-accident-report-pLR {
+  width: 41.8rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 118.3rem;
+  top: 11.6rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .rectangle-88-XEq {
+  width: 8.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3.25rem;
+  top: 18.9rem;
+  border: solid 0.1rem #020642;
+  box-sizing: border-box;
+  background-color: #020642;
+  border-radius: 0.7rem;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .rectangle-89-SMo {
+  width: 17.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 12.15rem;
+  top: 18.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #c99b2b;
+  border-radius: 0.7rem;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .stage-9n1 {
+  width: 5.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 4.85rem;
+  top: 17.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ffffff;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .auto-group-1e19-tvd .submitted-T21 {
+  width: 11.3rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 15.25rem;
+  top: 17.8rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .return-to-homepage-xjT {
+  margin: 0rem 46.15rem 6.8rem 0rem;
+  margin-top: -4%;
+  margin-left: 97%;
+  border-radius: 0.5rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ffffff;
+  background-color: #020642;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.history-screen--PqT .auto-group-d6nw-mr1 .image-38-Tw7 {
+  margin-left: 113.55rem;
+  width: 63.8rem;
+  height: 10.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

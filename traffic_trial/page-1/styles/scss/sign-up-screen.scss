@@ -1,0 +1,801 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.sign-up-screen-XSy {
+  background-color: #ffffff;
+  box-sizing: border-box;
+  padding-top: 1.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+
+  .auto-group-ztph-4Su {
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 3.2rem 1.5rem 3.1rem;
+    width: calc(100% - 6.3rem);
+    display: flex;
+
+    .image-1-bSq {
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-right: 169.2rem;
+      width: 10rem;
+      height: 9.6rem;
+    }
+    .image-34-LQR {
+      width: 6.5rem;
+      height: 9.6rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+  .line-1-H4m {
+    width: 219.9rem;
+    height: 0.1rem;
+    background-color: #ff8080;
+    flex-shrink: 0;
+  }
+  .auto-group-5ta7-d8d {
+    width: 100%;
+    height: 89.8rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .auto-group-e6xt-Zny {
+      position: absolute;
+      left: 26.75rem;
+      top: 0.3rem;
+      display: flex;
+      align-items: flex-end;
+      width: 137.15rem;
+      height: 17.6rem;
+
+      .auto-group-pgvf-VRj {
+        flex-shrink: 0;
+        margin-right: 16.65rem;
+        display: flex;
+        flex-direction: column;
+
+        .auto-group-rqrf-qVb {
+          margin-bottom: 0.2rem;
+          width: 20.1rem;
+          height: 7.7rem;
+          position: relative;
+          flex-shrink: 0;
+
+          .personal-information-aTB {
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            width: 19.7rem;
+            position: absolute;
+            text-align: center;
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: #c99b2b;
+            white-space: nowrap;
+            height: 4.2rem;
+            left: 0.4rem;
+            top: 0;
+            line-height: 2.5775;
+            text-decoration-line: underline;
+          }
+          .full-name-BrH {
+            position: absolute;
+            left: 0;
+            top: 3.5rem;
+            height: 4.2rem;
+            text-align: center;
+            font-size: 1.6rem;
+            font-weight: 700;
+            line-height: 2.5775;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 9.3rem;
+          }
+          .image-13-Jg1 {
+            position: absolute;
+            left: 9.85rem;
+            top: 5rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 0.7rem;
+            height: 0.7rem;
+          }
+        }
+        .rectangle-6-RVj {
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #fffefd;
+          border-radius: 0.5rem;
+          flex-shrink: 0;
+          margin-left: 0.05rem;
+          width: 35.7rem;
+          height: 4.2rem;
+        }
+      }
+      .auto-group-q81y-ijj {
+        flex-shrink: 0;
+        margin-right: 13.2rem;
+        width: 35.85rem;
+        height: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .register-4Ho {
+          margin: 0rem 0.05rem 1.3rem 0rem;
+          font-size: 3.2rem;
+          font-weight: 800;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          line-height: 2.5775;
+          color: #020642;
+        }
+        .auto-group-et4f-ZVT {
+          height: 8rem;
+          position: relative;
+          flex-shrink: 0;
+          width: 100%;
+
+          .date-of-birth-7Wy {
+            height: 4.2rem;
+            position: absolute;
+            left: 0;
+            text-align: center;
+            line-height: 2.5775;
+            color: #000000;
+            width: 11.9rem;
+            top: 0;
+            font-size: 1.6rem;
+            font-weight: 700;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .rectangle-7-S3T {
+            height: 4.2rem;
+            top: 3.8rem;
+            border: solid 0.1rem #000000;
+            box-sizing: border-box;
+            background-color: #ffffff;
+            width: 35.7rem;
+            left: 0.15rem;
+            border-radius: 0.5rem;
+            position: absolute;
+          }
+          .image-11-wF7 {
+            vertical-align: top;
+            width: 3.2rem;
+            height: 3.3rem;
+            position: absolute;
+            left: 32.15rem;
+            top: 4.2rem;
+            object-fit: cover;
+          }
+          .image-16-84h {
+            width: 0.7rem;
+            height: 0.7rem;
+            position: absolute;
+            left: 12.35rem;
+            top: 1.3rem;
+            object-fit: cover;
+            vertical-align: top;
+          }
+        }
+      }
+      .auto-group-o9by-qzh {
+        flex-shrink: 0;
+        width: 35.7rem;
+        height: 8rem;
+        position: relative;
+
+        .rectangle-8-z6u {
+          width: 35.7rem;
+          background-color: #ffffff;
+          border-radius: 0.5rem;
+          height: 4.2rem;
+          position: absolute;
+          left: 0;
+          top: 3.8rem;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+        }
+        .age-JdP {
+          position: absolute;
+          left: 0.35rem;
+          line-height: 2.5775;
+          color: #000000;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 3.6rem;
+          height: 4.2rem;
+          top: 0;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 700;
+        }
+        .image-19-QgR {
+          object-fit: cover;
+          vertical-align: top;
+          width: 0.7rem;
+          height: 0.7rem;
+          position: absolute;
+          left: 4.5rem;
+          top: 1.3rem;
+        }
+      }
+    }
+    .station-information-hfX {
+      position: absolute;
+      font-weight: 700;
+      line-height: 2.5775;
+      text-decoration-line: underline;
+      color: #c99b2b;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 18.8rem;
+      left: 26.8rem;
+      top: 38.9rem;
+      text-align: center;
+      font-size: 1.6rem;
+      height: 4.2rem;
+    }
+    .login-credentials-bW1 {
+      color: #c99b2b;
+      width: 16.5rem;
+      left: 26.75rem;
+      text-align: center;
+      font-size: 1.6rem;
+      font-weight: 700;
+      line-height: 2.5775;
+      text-decoration-line: underline;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      height: 4.2rem;
+      position: absolute;
+      top: 56.8rem;
+    }
+    .auto-group-zrjf-gXT {
+      align-items: center;
+      width: 91.5rem;
+      height: 5.3rem;
+      position: absolute;
+      left: 26.8rem;
+      top: 43.6rem;
+      display: flex;
+
+      .station-name-QiM {
+        margin: 0rem 0.7rem 1.1rem 0rem;
+        text-align: center;
+        white-space: nowrap;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #000000;
+      }
+      .image-22-XHB {
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 62.3rem 2.2rem 0rem;
+        width: 0.7rem;
+        height: 0.7rem;
+      }
+      .station-location-FDB {
+        color: #000000;
+        flex-shrink: 0;
+        text-align: center;
+        font-size: 1.6rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        margin-top: 1.1rem;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+    }
+    .auto-group-8z3v-aFT {
+      align-items: flex-end;
+      width: 137.15rem;
+      height: 8.8rem;
+      position: absolute;
+      left: 26.75rem;
+      top: 61.7rem;
+      display: flex;
+
+      .auto-group-fetd-skM {
+        margin-right: 16.7rem;
+        width: 35.85rem;
+        height: 8.4rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .username-cT3 {
+          left: 0;
+          font-size: 1.6rem;
+          font-weight: 700;
+          line-height: 2.5775;
+          color: #000000;
+          white-space: nowrap;
+          position: absolute;
+          height: 4.2rem;
+          top: 0;
+          text-align: center;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          width: 9.3rem;
+        }
+        .rectangle-17-wER {
+          height: 4.3rem;
+          position: absolute;
+          top: 4.1rem;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #fffefd;
+          width: 35.7rem;
+          left: 0.15rem;
+          border-radius: 0.5rem;
+        }
+        .image-23-EUR {
+          object-fit: cover;
+          vertical-align: top;
+          width: 0.7rem;
+          height: 0.7378rem;
+          position: absolute;
+          left: 10.15rem;
+          top: 1.3rem;
+        }
+      }
+      .auto-group-enzq-N4q {
+        margin-right: 13.2rem;
+        width: 35.7rem;
+        height: 100%;
+        flex-shrink: 0;
+
+        .auto-group-57xr-7HK {
+          margin: 0rem 25rem 0.3rem 0.15rem;
+          width: calc(100% - 25.15rem);
+          display: flex;
+          align-items: center;
+
+          .password-2fB {
+            margin-right: 1.05rem;
+            font-size: 1.6rem;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            text-align: center;
+            font-weight: 700;
+            line-height: 2.5775;
+          }
+          .image-24-MSZ {
+            margin-bottom: 1.6622rem;
+            width: 0.7rem;
+            height: 0.7378rem;
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .auto-group-7sfh-5dT {
+          width: 100%;
+          border: solid 0.1rem #000000;
+          background-color: rgba(255, 255, 255, 0.200000003);
+          border-radius: 0.5rem;
+          box-sizing: border-box;
+          padding: 1.2rem 0.7rem 1.1rem 33rem;
+
+          .image-34-Qvd {
+            width: 2rem;
+            height: 2rem;
+            object-fit: cover;
+            vertical-align: top;
+          }
+        }
+      }
+      .auto-group-bntt-XVT {
+        flex-shrink: 0;
+        width: 35.7rem;
+        height: 8.4rem;
+        position: relative;
+
+        .confirm-password-frZ {
+          width: 16.8rem;
+          height: 4.2rem;
+          position: absolute;
+          left: 0;
+          line-height: 2.5775;
+          color: #000000;
+          white-space: nowrap;
+          top: 0;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 700;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+        }
+        .rectangle-19-zP3 {
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          border-radius: 0.5rem;
+          width: 35.7rem;
+          height: 4.3rem;
+          position: absolute;
+          left: 0;
+          top: 4.1rem;
+          background-color: #fffefd;
+        }
+        .image-25-7Cm {
+          position: absolute;
+          left: 17.5rem;
+          top: 0.8rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 0.7rem;
+          height: 0.7378rem;
+        }
+        .image-5-SF3 {
+          left: 32.8rem;
+          top: 5.3rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 2rem;
+          height: 2rem;
+          position: absolute;
+        }
+      }
+    }
+    .auto-group-yek5-ARw {
+      top: 28.1rem;
+      display: flex;
+      align-items: flex-start;
+      width: 137.1rem;
+      height: 8.7rem;
+      position: absolute;
+      left: 26.8rem;
+
+      .auto-group-rhcw-VDK {
+        margin: 0.7rem 16.7rem 0rem 0rem;
+        width: 35.7rem;
+        height: 8rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .email-address-1SZ {
+          height: 4.2rem;
+          position: absolute;
+          font-size: 1.6rem;
+          font-weight: 700;
+          line-height: 2.5775;
+          white-space: nowrap;
+          width: 13.4rem;
+          left: 0;
+          top: 0;
+          text-align: center;
+          color: #000000;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+        }
+        .rectangle-12-KTF {
+          box-sizing: border-box;
+          width: 35.7rem;
+          height: 4.3rem;
+          top: 3.7rem;
+          background-color: #ffffff;
+          border-radius: 0.5rem;
+          position: absolute;
+          left: 0;
+          border: solid 0.1rem #000000;
+        }
+        .image-15-puo {
+          width: 0.7rem;
+          height: 0.7rem;
+          position: absolute;
+          left: 13.8rem;
+          top: 1.3rem;
+          object-fit: cover;
+          vertical-align: top;
+        }
+      }
+      .auto-group-aehh-xWD {
+        margin-right: 13.3rem;
+        width: 35.7rem;
+        height: 8rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .city-fvR {
+          white-space: nowrap;
+          position: absolute;
+          left: 0.55rem;
+          top: 0;
+          font-size: 1.6rem;
+          font-weight: 700;
+          color: #000000;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          width: 3.9rem;
+          height: 4.2rem;
+          text-align: center;
+          line-height: 2.5775;
+        }
+        .rectangle-13-Bds {
+          position: absolute;
+          box-sizing: border-box;
+          width: 35.7rem;
+          height: 4.3rem;
+          left: 0;
+          top: 3.7rem;
+          border: solid 0.1rem #000000;
+          background-color: #fffefd;
+          border-radius: 0.5rem;
+        }
+        .image-18-Hwo {
+          width: 0.7rem;
+          height: 0.7rem;
+          position: absolute;
+          left: 4.9rem;
+          top: 1.5rem;
+          object-fit: cover;
+          vertical-align: top;
+        }
+      }
+      .auto-group-gbcx-28h {
+        width: 35.7rem;
+        height: 8.2rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .physical-address-xY9 {
+          position: absolute;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 700;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 15.8rem;
+          height: 4.2rem;
+          left: 0;
+          top: 0;
+          line-height: 2.5775;
+          color: #000000;
+        }
+        .rectangle-14-UmP {
+          border: solid 0.1rem #000000;
+          background-color: #fffefd;
+          border-radius: 0.5rem;
+          height: 4.3rem;
+          left: 0;
+          top: 3.9rem;
+          width: 35.7rem;
+          position: absolute;
+          box-sizing: border-box;
+        }
+        .image-21-ChP {
+          width: 0.7rem;
+          height: 0.7378rem;
+          position: absolute;
+          left: 16.3rem;
+          top: 1rem;
+          object-fit: cover;
+          vertical-align: top;
+        }
+      }
+    }
+    .auto-group-rvrw-LHo {
+      align-items: center;
+      width: 137.15rem;
+      height: 8.3rem;
+      position: absolute;
+      left: 26.75rem;
+      top: 18.9rem;
+      display: flex;
+
+      .auto-group-vydr-4jb {
+        width: 35.75rem;
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+        margin-right: 16.7rem;
+
+        .badge-id-no-nvV {
+          top: 0;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 11.6rem;
+          height: 4.2rem;
+          position: absolute;
+          left: 0;
+          color: #000000;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 700;
+          line-height: 2.5775;
+        }
+        .rectangle-9-iZF {
+          width: 35.7rem;
+          top: 4rem;
+          background-color: #ffffff;
+          border-radius: 0.5rem;
+          height: 4.3rem;
+          position: absolute;
+          left: 0.05rem;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+        }
+        .image-14-q85 {
+          vertical-align: top;
+          width: 0.7rem;
+          height: 0.7rem;
+          position: absolute;
+          left: 12.05rem;
+          top: 1.3rem;
+          object-fit: cover;
+        }
+      }
+      .auto-group-vhb1-xTb {
+        margin-right: 13.3rem;
+        width: 35.7rem;
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+
+        .rank-JXT {
+          top: 0;
+          text-align: center;
+          font-size: 1.6rem;
+          font-weight: 700;
+          line-height: 2.5775;
+          width: 4.8rem;
+          height: 4.2rem;
+          left: 0.1rem;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          white-space: nowrap;
+          position: absolute;
+          color: #000000;
+        }
+        .rectangle-10-d3w {
+          box-sizing: border-box;
+          height: 4.3rem;
+          top: 4rem;
+          left: 0;
+          border: solid 0.1rem #000000;
+          background-color: #ffffff;
+          border-radius: 0.5rem;
+          width: 35.7rem;
+          position: absolute;
+        }
+        .image-10-waR {
+          vertical-align: top;
+          width: 4.1rem;
+          height: 3.3rem;
+          position: absolute;
+          left: 31.5rem;
+          top: 4.5rem;
+          object-fit: cover;
+        }
+        .image-17-gH7 {
+          left: 5.7rem;
+          top: 1.5rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 0.7rem;
+          height: 0.7rem;
+          position: absolute;
+        }
+      }
+      .auto-group-xcnp-Qiu {
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+        width: 35.7rem;
+
+        .contact-number-N9w {
+          position: absolute;
+          left: 0.2rem;
+          font-size: 1.6rem;
+          font-weight: 700;
+          line-height: 2.5775;
+          color: #000000;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          width: 15.2rem;
+          height: 4.2rem;
+          top: 0;
+          text-align: center;
+          white-space: nowrap;
+        }
+        .rectangle-11-gRX {
+          position: absolute;
+          left: 0;
+          top: 4rem;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          border-radius: 0.5rem;
+          height: 4.3rem;
+          background-color: #fffefd;
+          width: 35.7rem;
+        }
+        .image-20-Cuf {
+          left: 16.3rem;
+          top: 0.9rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 0.7rem;
+          height: 0.7378rem;
+          position: absolute;
+        }
+      }
+    }
+    .auto-group-vwl7-w6Z {
+      position: absolute;
+      left: 26.8rem;
+      top: 48.9rem;
+      display: flex;
+      align-items: center;
+      width: 137.1rem;
+      height: 4.3rem;
+
+      .auto-group-s4fd-Tqb {
+        margin-right: 18.7rem;
+        box-sizing: border-box;
+        padding: 0.5rem 0.1rem 0.5rem 53.9rem;
+        height: 100%;
+        border: solid 0.1rem #000000;
+        background-color: #fffefd;
+        border-radius: 0.5rem;
+        flex-shrink: 0;
+
+        .image-9-CHP {
+          width: 4.1rem;
+          height: 3.3rem;
+          object-fit: cover;
+          vertical-align: top;
+        }
+      }
+      .rectangle-16-Kcu {
+        height: 4.3rem;
+        border: solid 0.1rem #000000;
+        box-sizing: border-box;
+        background-color: #fffefd;
+        border-radius: 0.5rem;
+        flex-shrink: 0;
+        width: 60.3rem;
+      }
+    }
+    .auto-group-eqew-3J1 {
+      padding: 0.8rem 18.05rem 0rem 20.95rem;
+      position: absolute;
+      line-height: 2.5775;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      border-radius: 0.5rem;
+      box-sizing: border-box;
+      width: 62.7rem;
+      text-align: center;
+      font-size: 2.6rem;
+      color: #020642;
+      white-space: nowrap;
+      background-color: #c99b2b;
+      height: 7.6rem;
+      left: 65.9rem;
+      top: 79.2rem;
+      font-weight: 800;
+    }
+  }
+}

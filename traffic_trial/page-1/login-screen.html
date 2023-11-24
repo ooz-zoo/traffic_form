@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>LOGIN SCREEN</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inknut+Antiqua%3A500%2C800"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A500%2C800"/>
+  <link rel="stylesheet" href="./styles/login-screen.css"/>
+</head>
+
+
+<body>
+<div class="login-screen-xrd">
+  <div class="auto-group-wwkj-UiV">
+    <p class="kenya-police-traffic-accident-report-system-CgR">KENYA POLICE TRAFFIC ACCIDENT REPORT SYSTEM</p>
+
+     <!--Username Input-->
+     <label for="username" class="enter-email-address-or-username-END">Enter Email Address or Username</label>
+     <input type="email" id="username" name="username" class="auto-group-bhuu-6fK" placeholder="Enter your username or email address" required/>
+
+
+    <!--Password input-->
+    <label for="password" class="password-iAu">Password</label>
+    <div class="auto-group-q26o-pzd">
+      <input type="password" id="password" class="enter-password-Y3T" placeholder="   Enter your password" required />
+      <p id="togglePassword" class="image-5-eCy" src="./assets/image-5-Qh7.png" alt="Toggle Password" />
+    </div>
+
+    <!--Remember password-->
+    <div class="auto-group-j89q-pWm">
+      <input type="checkbox" id="rememberCheckbox" class="rectangle-2-Lk1" />
+      <label for="rememberCheckbox" class="remember-for-30-days-GNm">Remember for 30 days?</label>
+
+    <!--Forgot password-->
+    <button onclick="location.href ='forgot-password-screen.html'" class="forgot-password-z3s">Forgot Password ?</button>  
+    </div>
+
+    <!--LOG IN-->
+    <div class="auto-group-cdmv-sdT">
+      <button onclick="location.href='form1.html'" class="log-in-8JV">LOG IN </button>
+    </div>
+
+    <!--Create Account-->
+    <div class="auto-group-1myv-2uf">
+      <p class="dont-have-an-account-Zub">Don’t have an account?</p>
+      <button class="create-account-Gp1" onclick="location.href='sign-up-screen.html'">Create Account</button>
+    </div>
+  </div>
+
+  <!--Police Logo-->
+  <div class="auto-group-3yjs-zV7">
+    <div class="rectangle-1-ig1">
+    </div>
+    <img class="high-res-1-2Ro" src="./assets/high-res-1.png"/>
+  </div>
+</div>
+
+<script>
+  const passwordInput = document.getElementById('password');
+  const togglePassword = document.getElementById('togglePassword');
+
+  togglePassword.addEventListener('click', function () {
+    const type = passwordInput.getAttribute('type') === 'password' ? 'text' : 'password';
+    passwordInput.setAttribute('type', type);
+  });
+</script>
+
+</body>
