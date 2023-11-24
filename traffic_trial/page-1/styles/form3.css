@@ -14,7 +14,29 @@ input {
 }
 body {
   width: 192rem;
-}.form3-XFf {
+}
+.text-input {
+  width: 100%;
+  height: 100%;
+}
+.description-input-form form {
+  display: flex;
+  flex-direction: row;
+}
+
+.description-input-form label {
+  margin-right: 10px;
+}
+
+.three-column-input-form form {
+  display: flex;
+  flex-direction: row;
+}
+
+.three-column-input-form label {
+  margin-right: 10px;
+}
+.form3-XFf {
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -926,7 +948,7 @@ body {
 }
 .form3-XFf .auto-group-rr1d-21P .auto-group-1fpr-vNm .signature-epZ {
   margin: 0rem 44.25rem 0.1rem 0rem;
-  text-align: center;
+  text-align: left;
   font-size: 2rem;
   font-weight: 500;
   line-height: 2.5775;
@@ -934,6 +956,8 @@ body {
   font-family: Inknut Antiqua, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  margin-left: -17%;
+  width: 58%;
 }
 .form3-XFf .auto-group-rr1d-21P .auto-group-1fpr-vNm .auto-group-anu3-AY1 {
   width: 32rem;
@@ -942,6 +966,7 @@ body {
   font-size: 2rem;
   font-weight: 500;
   line-height: 2.5775;
+  margin-left: -30%;
   color: #020642;
   font-family: Inknut Antiqua, 'Source Sans Pro';
   white-space: nowrap;

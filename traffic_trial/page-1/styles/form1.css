@@ -26,8 +26,8 @@ body {
 .text-input {
   width:100%;
   height: 100%;
-  
 }
+
 
 .text-input-ins {
   margin-right: 50%;
@@ -222,7 +222,7 @@ body {
 .form1-VkD .auto-group-jx43-NJD .auto-group-9xd9-BVs .auto-group-prjx-RQD .vehicle-use-mU5 {
   margin-bottom: 0.7rem;
   width: 100%;
-  text-align: center;
+  text-align: left;
   font-size: 2.4rem;
   font-weight: 800;
   line-height: 2.5775;
@@ -494,10 +494,12 @@ body {
 .form1-VkD .auto-group-jx43-NJD .auto-group-rhy7-Qwb .auto-group-5c9h-5H3 {
   margin-top: 0.2rem;
   box-sizing: border-box;
-  padding: 0.3rem 0.403rem 0.4rem 83.3rem;
+  padding: 0.3rem 0.403rem 0.4rem 1.3rem;
   border: solid 0.1rem #020642;
   background-color: #ffffff;
   border-radius: 0.5rem;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
   flex-shrink: 0;
   width: 82%;
 }
@@ -620,7 +622,7 @@ body {
   flex-shrink: 0;
 }
 .form1-VkD .auto-group-jx43-NJD .auto-group-rfhu-ANM .i-vehicle-ogD {
-  margin: 0.6rem 1.75rem 0rem 0rem;
+  margin: 0.6rem 1.2rem 0rem 0rem;
   text-align: center;
   font-size: 2rem;
   font-weight: 500;
@@ -646,9 +648,10 @@ body {
   background-color: #fffefd;
   border-radius: 0.5rem;
   flex-shrink: 0;
+  width: 15%;
 }
 .form1-VkD .auto-group-jx43-NJD .auto-group-rfhu-ANM .ii-trailer-Zoo {
-  margin: 0.8rem 3.4rem 0rem 0rem;
+  margin: 0.8rem 0.4rem 0rem 0rem;
   text-align: center;
   font-size: 2rem;
   font-weight: 500;
@@ -657,6 +660,7 @@ body {
   font-family: Inknut Antiqua, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  margin-left: 0%;
 }
 .form1-VkD .auto-group-jx43-NJD .auto-group-rfhu-ANM .auto-group-mvnj-VBf {
   margin-top: 1.1rem;
@@ -727,12 +731,17 @@ body {
   position: absolute;
   left: 43.6rem;
   top: 107.3rem;
-  align-items: flex-end;
+  align-items: left;
   display: flex;
   flex-direction: column;
   border: solid 0.1rem #020642;
   background-color: #fffefd;
   border-radius: 0.5rem;
+}
+.text-area-for-accident-description{
+  color: #020642;
+  text-decoration: solid;
+  font-size: large;
 }
 .form1-VkD .auto-group-jx43-NJD .auto-group-ly8f-Ppm .eg-transporting-goods-UrD {
   margin-bottom: 9.9rem;
@@ -748,7 +757,7 @@ body {
 }
 .form1-VkD .auto-group-jx43-NJD .auto-group-ly8f-Ppm .words-CGR {
   width: 100%;
-  text-align: center;
+  text-align: right;
   font-size: 1.5rem;
   font-weight: 500;
   line-height: 2.5775;

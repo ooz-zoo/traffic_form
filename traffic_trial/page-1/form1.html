@@ -31,7 +31,7 @@
     <div class="auto-group-zxdq-iB3">
       <p class="traffic-accident-report-form-qFf">TRAFFIC ACCIDENT REPORT FORM</p>
       <a href="history-screen-.html">
-        <img class="image-36-k7j" src="./assets/image-36.png"/>
+        <img class="image-36-k7j" src="./assets/image-36.png"/> <!--Histroy button image-->
       </a>
 
     </div>
@@ -44,10 +44,9 @@
         <p class="make-and-model-x7K">Make and Model</p>
       </div>
 
-      
           <!--Make and Model-->
           <div class="rectangle-21-UrM">
-            <input type="text" id="make" name="make" class="text-input" placeholder="   Enter car make and model" required/>
+            <input type="text" id="make" name="make" class="text-input" placeholder="   Enter car make and model" style="font-family: Inknut Antiqua, 'Source Sans Pro';"/>
             <!-- Any additional images or icons related to Full Name can go here -->
           </div>
     
@@ -61,6 +60,9 @@
       </div>
       <p class="oo-words-C3b">(2oo words) </p>
     </div>
+
+
+
     <div class="auto-group-nrxj-KP7">
       <p class="item-3-FXf">3.</p>
       <p class="commercial-vehicle-if-applicable-mF7">
@@ -73,12 +75,12 @@
     <div class="auto-group-reno-12y">
       <p class="hp-cc-WEd">HP/CC</p>
       <div class="rectangle-22-DPw">
-        <input type="text" id="cc" name="cc" class="text-input" placeholder="   Enter car horsepower" required/>
+        <input type="text" id="cc" name="cc" class="text-input" placeholder="   Enter car horsepower" style="font-family: Inknut Antiqua, 'Source Sans Pro';"/>
       </div>
 
       <p class="year-of-manufacture-KSy">Year of Manufacture</p>
       <div class="rectangle-23-2sB">
-      <input type="date" id="Manufacture" name="Manufacture" class="text-input" placeholder="   Enter car manufacture date" required/>
+      <input type="date" id="Manufacture" name="Manufacture" class="text-input" placeholder="   Enter car manufacture date" style="font-family: Inknut Antiqua, 'Source Sans Pro';"/>
       </div>
     </div>
 
@@ -86,7 +88,7 @@
     <div class="auto-group-mjsm-MPf">
       <p class="license-plate-no-ggq">License Plate No. </p>
       <div class="rectangle-24-Cv5">
-        <input type="text" id="no.plate" name="no.plate" class="text-input" placeholder="   Enter number plate" required/>
+        <input type="text" id="no.plate" name="no.plate" class="text-input" placeholder="   Enter number plate" style="font-family: Inknut Antiqua, 'Source Sans Pro';"/>
       </div>
 
 
@@ -102,13 +104,13 @@
       <p class="registration-no-trailer-cMX">Registration No.  (Trailer)</p>
       <div class="auto-group-szno-8qf">
         <div class="rectangle-26-Gws">
-          <input type="text" id="cc" name="cc" class="text-input" placeholder="   Enter car registration number" required/>
+          <input type="text" id="cc" name="cc" class="text-input" placeholder="   Enter car registration number" style="font-family: Inknut Antiqua, 'Source Sans Pro';"/>
         </div>
 
 
         <p class="carrying-capacity-Nk1">Carrying Capacity </p>
         <div class="rectangle-27-gkh">
-         <input type="text" id="cc" name="cc" class="text-input" placeholder="   Enter car capacity" required/>
+         <input type="text" id="cc" name="cc" class="text-input" placeholder="   Enter car capacity" style="font-family: Inknut Antiqua, 'Source Sans Pro';"/>
         </div>
       </div>
     </div>
@@ -116,73 +118,99 @@
 
     <div class="auto-group-rhy7-Qwb">
       <p class="car-insurance-Ynu">Car Insurance</p>
-      <div class="auto-group-5c9h-5H3">
-        <input type="text" id="cc" name="cc" class="text-input"/>
-      </div>
+        <select name="insurance-company" class="auto-group-5c9h-5H3">
+          <option value="company1">APA Insurance</option>
+          <option value="company2">Britam Insurance</option>
+          <option value="company3"> CIC Insurance Group</option>
+          <option value="company4"> Jubilee Insurance</option>
+          <option value="company5"> Kenya Orient Insurance</option>
+          <option value="company6"> ICEA Lion Group</option>
+          <option value="company7"> Heritage Insurance Company</option>
+          <option value="company8"> Sanlam Kenya</option>
+          <option value="company9"> UAP Old Mutual Group</option>
+          <option value="company10">APA Insurance</option>
+          <option value="company11">None</option>
+          <option value="company12">Not Listed</option>
+          <!-- Add more options for other insurance companies -->
+        </select>
     </div>
-
+    
 
 
     <div class="auto-group-baix-iau">
       <p class="description-of-goods-being-carried-FKw">Description of goods being carried</p>
       <div class="rectangle-30-knV"> 
-        <input type="text" name="goods_description" class="text-input"placeholder="   Enter description of goods">
+        <input type="text" name="goods_description" class="text-input"placeholder="   Enter description of goods" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
       </div>
     </div>
 
 
     <div class="auto-group-aboq-HnR">
       <p class="was-a-trailer-attached-cZo">Was a trailer attached? </p>
-      <div class="rectangle-32-7mT">
-        <input type="checkbox" name="trailer_attached_yes" class="text-input"value="Yes">
-      </div>
+      
+        <input type="radio" name="trailer_attached" class="rectangle-32-7mT" value="Yes">
       
       <p class="yes-cTK">Yes</p>
-      <div class="rectangle-33-L8R">
-        <input type="checkbox" name="trailer_attached_no" class="text-input"value="No">
-      </div>
+      
+        <input type="radio" name="trailer_attached" class="rectangle-33-L8R" value="No">
+
       <p class="no-EDo">No</p>
-     
     </div>
+    
 
 
     <div class="auto-group-rfhu-ANM">
       <p class="weight-of-load-on-tZF">Weight of load on</p>
       <p class="i-vehicle-ogD">i) Vehicle</p>
       <div class="auto-group-58xb-j45">
-        <input type="text" name="vehicle_weight" class="text-input"placeholder="Enter weight in kgs">
+        <input type="text" name="vehicle_weight" class="text-input"placeholder="In kgs"  style="font-family: Inknut Antiqua, 'Source Sans Pro';">
       </div>
+
+
       <p class="ii-trailer-Zoo">ii) Trailer</p>
       <div class="auto-group-mvnj-VBf">
         <div class="rectangle-35-EQ9">
-          <input type="text" name="trailer_weight" class="text-input" placeholder="Enter weight in kgs">
+          <input type="text" name="trailer_weight" class="text-input" placeholder="          In kgs" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
         </div>
         <p class="in-kgs-Yvd"></p>
       </div>
     </div>
+
+    
     <div class="auto-group-ytpd-F4M">
       <p class="name-of-owner-of-goods-yW9">Name of Owner of goods</p>
       <div class="rectangle-31-fNy">
-        <input type="text" name="owner_name" class="text-input"placeholder="Enter name of owner of goods">
+        <input type="text" name="owner_name" class="text-input"placeholder="Enter name of owner of goods" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
       </div>
     </div>
 
     <div class="auto-group-ly8f-Ppm">
-      <p class="eg-transporting-goods-UrD">e.g., Transporting goods</p>
-      <p class="words-CGR">0/200 words</p>
+      <textarea class="text-area-for-accident-description" rows="24" cols="50" placeholder="What was the use of the vehicle e.g., Transporting Goods"  style="font-family: Inknut Antiqua, 'Source Sans Pro';"></textarea>
     </div>
     <div class="auto-group-kcx3-uRj">
       <button class="auto-group-tjbh-dsX" onclick="clearForm()">Clear</button>
       <button onclick="location.href='form2.html'" class="auto-group-a6xd-hcV">Next Page </button>
     </div>
-    <div class="auto-group-ucpb-NTj">
-      <img class="ellipse-1-tws" src="./assets/ellipse-1-cTB.png"/>
-      <img class="auto-group-su5h-duT" src="./assets/auto-group-su5h.png"/>
-      <img class="ellipse-2-AuP" src="./assets/ellipse-2-MAH.png"/>
-      <div class="line-4-v7s">
+
+    
+      <div class="auto-group-ucpb-NTj">
+        <a href="form1.html">
+          <img class="ellipse-1-tws" src="./assets/ellipse-1-cTB.png" alt="Link to Page 1"/>
+        </a>
+        
+          <img class="auto-group-su5h-duT" src="./assets/auto-group-su5h.png" alt="Link to Page 2"/>
+      
+        <a href="form2.html">
+          <img class="ellipse-2-AuP" src="./assets/ellipse-2-MAH.png" alt="Link to Page 3"/>
+        </a>
+        <div class="line-4-v7s"></div>
+        <a href="form3.html">
+          <img class="ellipse-3-FR3" src="./assets/ellipse-3-FCD.png" alt="Link to Page 4"/>
+        </a>
       </div>
-      <img class="ellipse-3-FR3" src="./assets/ellipse-3-FCD.png"/>
-    </div>
+    
+
+    
     <div class="auto-group-mpit-PGM">
       <p class="vehicle-details-7i9">Vehicle Details</p>
       <p class="driver-details-3bo">Driver Details</p>

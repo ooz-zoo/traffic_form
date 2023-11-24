@@ -12,6 +12,8 @@
 </head>
 <body>
 <div class="form3-XFf">
+
+
   <div class="auto-group-qflw-fMs">
     <div class="line-2-bmK">
     </div>
@@ -24,15 +26,25 @@
     </p>
     <p class="police-hot-lines-vDF">Police Hot-Lines</p>
   </div>
-  <div class="auto-group-rr1d-21P">
-    <div class="auto-group-rpt3-8q7">
-      <img class="ellipse-1-f4M" src="./assets/ellipse-1.png"/>
-      <img class="auto-group-yegs-zcR" src="./assets/auto-group-yegs.png"/>
-      <img class="ellipse-2-LAV" src="./assets/ellipse-2.png"/>
-      <div class="line-4-GZw">
+
+
+    <div class="auto-group-rr1d-21P">
+      <div class="auto-group-rpt3-8q7">
+        <a href="form1.html">
+          <img class="ellipse-1-f4M" src="./assets/ellipse-1.png" alt="Link to Page 1"/>
+        </a>
+          <img class="auto-group-yegs-zcR" src="./assets/auto-group-yegs.png" alt="Link to Page 2"/>
+        <a href="form2.html">
+          <img class="ellipse-2-LAV" src="./assets/ellipse-2.png" alt="Link to Page 3"/>
+        </a>
+        <div class="line-4-GZw"></div>
+        <a href="form3.html">
+          <img class="ellipse-3-oJy" src="./assets/ellipse-3.png" alt="Link to Page 4"/>
+        </a>
       </div>
-      <img class="ellipse-3-oJy" src="./assets/ellipse-3.png"/>
-    </div>
+    
+    
+
     <div class="auto-group-rjtx-9Nq">
       <p class="item-5-GiM">5.</p>
       <div class="auto-group-c9st-A33">
@@ -40,37 +52,50 @@
         <p class="accident-1pM">Accident</p>
         <p class="accident-date-LLq">Accident Date</p>
       </div>
+
+
       <div class="auto-group-7yub-ra5">
         <div class="auto-group-eudq-nyX">
           <p class="driver-details-vK3">Driver Details</p>
           <div class="rectangle-21-F6R">
+            <input type="date" id="accident-date" name="accident-date" class="text-input" placeholder="   Enter accident date" style="font-family: Inknut Antiqua, 'Source Sans Pro';"/>
           </div>
         </div>
+
+
         <p class="time-mKf">Time</p>
         <div class="auto-group-kr95-VmT">
           <p class="accident-details-DxM">Accident Details</p>
           <div class="rectangle-39-x9F">
+            <input type="time" name="accident_time" class="text-input" placeholder="Enter time">
           </div>
         </div>
       </div>
     </div>
+
+
+    
     <div class="auto-group-jdeb-s1K">
       <p class="item-6-zbj">6.</p>
       <p class="driver-statement-JsK">Driver Statement</p>
     </div>
+
     <div class="auto-group-exbr-EW5">
       <p class="item-7-mF7">7.</p>
       <p class="vehicle-damage-JF3">Vehicle Damage</p>
     </div>
+
     <div class="auto-group-dqlx-2gq">
       <p class="item-8-NEu">8.</p>
       <p class="property-damage-hY5">Property Damage</p>
     </div>
+
     <div class="auto-group-umnb-dAq">
       <p class="item-9-Lqw">9.</p>
       <div class="auto-group-8yuf-rpH">
+
         <div class="rectangle-86-cYZ">
-        </div>
+  </div>
         <div class="auto-group-vfsh-LDf">
           <div class="auto-group-8r5m-f13">
             <p class="independent-witness-14u">Independent Witness</p>
@@ -80,56 +105,113 @@
           <div class="line-13-qpd">
           </div>
         </div>
+
+
         <div class="auto-group-aknw-yfw">
-          <div class="rectangle-57-XBf">
+          <div class="rectangle-57-XBf">  
           </div>
           <p class="physical-address-FdT">Physical Address</p>
           <p class="telephone-no-kq7">Telephone No.</p>
           <div class="rectangle-58-UFK">
           </div>
           <p class="name-zzM">Name</p>
+
+          <div class="description-input-form">
+            <p class="physical-address-FdT">Physical Address</p>
+            <p class="telephone-no-kq7">Telephone No.</p>
+            
+            <div class="rectangle-58-UFK">
+              <form>
+                <label for="name"></label>
+                <input type="text" id="name" name="name" class="text-input" placeholder="Enter name" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
+                
+                <label for="telephone"></label>
+                <input type="text" id="name" name="name" class="text-input" placeholder="Enter phone no." style="font-family: Inknut Antiqua, 'Source Sans Pro';">
+  
+                <label for="physical_address"></label>
+                <input type="text" id="physical_address" name="physical_address" class="text-input" placeholder="Enter physical address" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
+                
+              </form>
+            </div>
+            <p class="name-zzM">Name</p>
+          </div>
         </div>
+
+
+      
       </div>
     </div>
     <div class="auto-group-9js5-VgD">
       <p class="accident-location-ckq">Accident Location</p>
       <div class="rectangle-38-YPb">
+        <input type="text" id="town" name="town" class="text-input" placeholder="Enter the county and the town/city where the accident has occured" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
       </div>
     </div>
+
     <div class="auto-group-amkf-TmT">
       <p class="road-type-PQD">Road Type</p>
-      <div class="auto-group-trxd-utM">
-        <img class="image-9-e5F" src="./assets/image-9-gmX.png"/>
-      </div>
+        <select id="road-type" name="road_type" class="text-input" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
+          <option value="expressway">Expressway</option>
+          <option value="highway">Highway</option>
+          <option value="dual-carriageway">Dual Carriageway</option>
+          <option value="freeway">Freeway</option>
+          <option value="motorway">Motorway</option>
+        </select>
     </div>
+    
     <div class="auto-group-2rfd-MEZ">
       <p class="average-speed-km-h-Upy">Average speed (km/h)</p>
       <div class="rectangle-40-cAV">
+        <input type="text" id="avg-speed" name="avg-speed" class="text-input" placeholder="Enter average speed of the car" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
       </div>
+
       <p class="weather-conditions-8Pj">Weather Conditions</p>
-      <div class="rectangle-49-fPf">
-      </div>
+     
+        <select id="weather-conditions" name="weather_conditions" class="text-input" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
+          <option value="clear">Rainy</option>
+          <option value="cloudy">Cloudy</option>
+          <option value="rainy">Clear</option>
+          <option value="stormy">Stormy</option>
+          <option value="snowy">Snowy</option>
+          <option value="foggy">Foggy</option>
+          <!-- Add more options based on your needs -->
+        </select>
+      
     </div>
-    <div class="auto-group-ycb5-oEy">
-      <p class="visibility-Wv5">Visibility </p>
-      <div class="rectangle-22-E5P">
-      </div>
+
+      <div class="auto-group-ycb5-oEy">
+        <p class="visibility-Wv5">Visibility</p>    
+          <select id="road-visibility" name="road_visibility" class="text-input" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
+            <option value="clear">Clear Visibility</option>
+            <option value="foggy">Foggy</option>
+            <option value="rainy">Rainy</option>
+            <option value="stormy">Stormy</option>
+            <option value="night">Night (Low Light)</option>
+          </select>
+        
+    
+
       <p class="wet-or-dry-road-surface-Z7f">Wet or Dry road surface</p>
       <div class="rectangle-48-H3f">
+        <input type="text" id="road-surface" name="road-surface" class="text-input" placeholder="Enter road surface" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
       </div>
     </div>
     <div class="auto-group-gkp7-i8y">
       <p class="to-which-station-was-the-accident-reported--Et1">To which station was the accident reported ?</p>
       <div class="rectangle-50-9k5">
+        <input type="text" id="station" name="station" class="text-input" placeholder="Enter station accident reported to and its location" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
       </div>
     </div>
     <div class="auto-group-1crq-V3F">0/100 words</div>
     <div class="auto-group-kreb-iAu">
       <div class="rectangle-51-Ssb">
+        <input type="text" id="station" name="station" class="text-input" placeholder="Enter station accident reported to and its location" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
       </div>
       <p class="words-NWM">0/100 words</p>
     </div>
     <div class="auto-group-4ifu-UZP">0/100 words</div>
+
+    
     <div class="auto-group-sunk-7sF">
       <p class="give-the-drivers-statement--FCm">Give the driver’s statement ?</p>
       <p class="oo-words-AKj">(1oo words) </p>
@@ -138,6 +220,8 @@
       <p class="state-briefly-damage-acquired-by-the-vehicle-EKb">State briefly damage acquired by the vehicle</p>
       <p class="oo-words-Yr5">(1oo words) </p>
     </div>
+
+    
     <p class="i-declare-that-these-particulars-are-true-and-correct-and-undertake-to-forward-any-correspondence-relating-to-the-accident-Hof">I declare that these particulars are true and correct and undertake to forward any correspondence relating to the accident </p>
     <div class="auto-group-fx31-MoX">
       <p class="give-the-car-owners-statement-if-applicable--Veq">
@@ -148,16 +232,35 @@
       <p class="oo-words-nnM">(1oo words) </p>
     </div>
     <div class="auto-group-1fpr-vNm">
-      <p class="signature-epZ">Signature</p>
+      <input type="text" id="signature" name="signature" class="signature-epZ" placeholder="enter your signature or official names" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
       <button onclick="location.href='previewform.html'" class="auto-group-anu3-AY1">Preview Form </button>
     </div>
     <div class="auto-group-ulhh-F3f">
       <p class="description-mGu">Description</p>
       <div class="rectangle-83-GzM">
       </div>
-      <p class="description-bmj">Description</p>
-      <div class="rectangle-84-KBw">
-      </div>
+
+
+
+          <div class="description-input-form">
+            <p class="description-bmj">Description</p>
+            <div class="rectangle-84-KBw">
+              <form>
+                <label for="name"></label>
+                <input type="text" id="name" name="name" class="text-input" placeholder="Enter name" style="font-family: Inknut Antiqua, 'Source Sans Pro';">
+          
+                <label for="description"></label>
+                <textarea id="description" name="description" class="text-input" placeholder="Enter description" style="font-family: Inknut Antiqua, 'Source Sans Pro';" ></textarea>
+              </form>
+            </div>
+          </div>
+          
+
+      
+          
+        
+      
+
       <div class="line-21-SXT">
       </div>
       <p class="name-mZj">Name</p>
